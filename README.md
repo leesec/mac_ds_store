@@ -1,3 +1,5 @@
+＃ps： lijiejie脚本优化了下
+
 import ds_store
 
 if ds_store modules not exists:
